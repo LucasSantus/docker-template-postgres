@@ -1,2 +1,2 @@
-# Dockerfile
-FROM postgres:15
+# Use an official PostgreSQL image as base
+FROM postgres:latest
