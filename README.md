@@ -10,16 +10,6 @@ _"Create a simple template project for Postgres using docker and docker compose.
 
 ---
 
-<h3 id="why">:question: Why</h3>
-
-This project is part of my personal portfolio, I will be happy if you provide some feedback, code, structure, functionality or any feature&improvement you can report to improve it.
-
-You can use this project however you want, whether it's for studying, making improvements, you call the shots!
-
-This is a totally free project!
-
----
-
 <h3 id="running">:computer: Run project</h3>
 
 <h4><strong>Building</strong></h4>
